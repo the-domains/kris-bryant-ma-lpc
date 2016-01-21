@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kris Bryant, MA, LPC]]></title>
-        <description><![CDATA[Kris Bryant, MA, LPC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Counseling & Life Coaching | Oklahoma City, OK]]></title>
+        <description><![CDATA[Counseling & Life Coaching | Oklahoma City, OK]]></description>
+        <link>https://thegrid.ai/kris-bryant-ma-lpc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 05:35:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 05:47:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kris-bryant-ma-lpc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<h1>Welcome</h1>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Today you are one step closer to a sense of hope, purpose, connection, and well-being. Are you a stressed out parent trying to deal with your child's difficult behaviors? Maybe you've lost that loving feeling with your spouse or partner. Perhaps you are a college student or young professional trying to find your way in the real world. Or maybe you are struggling with the question of whether life is worth living.</p></article>]]></description>
+            <link>https://thegrid.ai/kris-bryant-ma-lpc/welcome/index.html</link>
             <guid isPermaLink="false">42694f25-ccd1-4483-a846-19ffcf6a2dd3</guid>
-            <pubDate>Thu, 21 Jan 2016 05:35:19 GMT</pubDate>
+            <pubDate>Thu, 21 Jan 2016 05:47:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
